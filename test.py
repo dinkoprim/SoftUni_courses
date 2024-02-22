@@ -39,8 +39,3 @@
 #
 # print(text.find('h'))
 
-line = input()
-name, (price, qty) = line.split()
-print(name)
-print(price)
-print(qty)
